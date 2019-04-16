@@ -1,2 +1,4 @@
 —ûK
 aaaa
+git add
+git commit

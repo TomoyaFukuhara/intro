@@ -2,4 +2,5 @@
 aaaa
 git add
 git commit
-aaa
+git rm
+gir status
